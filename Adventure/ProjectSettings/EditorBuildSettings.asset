@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/07-Mecanica5-CambiarEscena-B.unity
+    guid: 9628e2111fa51ae4880a6f7ed4a9ae57
+  - enabled: 0
+    path: Assets/Scenes/07-Mecanica5-CambiarEscena-A.unity
+    guid: 97906d0be9fe1db47983a8afcb9f9c89
+  - enabled: 1
+    path: Assets/Scenes/07-Mecanica5-CambiarEscena-B1.unity
+    guid: b4d1dfe0e4aa6c74a966c5bd29cab42f
+  - enabled: 1
+    path: Assets/Scenes/Portada.unity
+    guid: 11f3354bba75ca4458c29dca2bebc4dd
+  - enabled: 1
+    path: Assets/Scenes/08-EscenarioJuego-02-Bosque-B.unity
+    guid: 5ea724140972ec44eb584b97920a8a14
   m_configObjects: {}
